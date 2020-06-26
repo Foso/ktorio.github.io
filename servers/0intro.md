@@ -183,4 +183,4 @@ routing {
 - [Application lifecycle explanation](/servers/lifecycle.html)
 - [Application configuration](/servers/configuration.html)
 - [Routing](/servers/features/routing.html)
-- [Pipelines exlained](/advanced/pipeline)
+- [Pipelines explained](/advanced/pipeline)
